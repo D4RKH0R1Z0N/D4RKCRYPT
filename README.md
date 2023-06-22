@@ -26,7 +26,7 @@
 <div align="center">
   
 ## About
-Fernet Encrypter and Decrypter! Made fully with Python For Code Protection, Made by D4RKH0R1Z0N
+Fernet Encrypter and Decrypter! Made fully with Python For Code Protection, Made by D4RKH0R1Z0N & CyberTitus
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python" alt="python Badge" height="25">&nbsp;
