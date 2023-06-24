@@ -34,20 +34,14 @@ Fernet Encrypter and Decrypter! Made fully with Python For Code Protection, Made
 ## Installation
 To Install this project, follow the steps above:
 ```bash
-git clone https://github.com/D4RKH0R1Z0N/D4RKCRYPT && cd D4RKCRYPT && python -m pip install cryptography pyfiglet
+git clone https://github.com/D4RKH0R1Z0N/D4RKCRYPT && cd D4RKCRYPT && python -m pip install cryptography
 ```
 
 ## Usage
 
-To use this project, follow the steps above:
-### For Encrypting -
+Run the following command to execute the tool, then just following the instructions built within the tool for encrypting & decrypting.
 ```bash
-python encrypt.py
-```
-  
-### For Decrypting -
-```bash
-python decrypt.py
+python app.py
 ```
 
 </div>
